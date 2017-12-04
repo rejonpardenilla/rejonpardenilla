@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Open sans', sans-serif;
   background-color: #222;
   color: #FFF;
 }
@@ -11,6 +11,10 @@ body {
 h1, 
 p {
   font-weight: 100;
+}
+
+h1 {
+  font-family: 'Open Sans Condensed', sans-serif;  
 }
 
 .btn-light {
