@@ -1,2 +1,0 @@
-# rejonpardenilla
-Personal Website
