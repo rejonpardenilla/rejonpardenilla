@@ -7,13 +7,6 @@
         de Yucatán and I’m looking for an job in frontend or backend development.
       </content-info>
 
-      <content-info title="Education">
-        <b>University</b>: Facultad de Matemáticas, Universidad Autónoma de Yucatán. <br>
-        <b>Degree</b>: Software Engineering (graduating in 2019). <br>
-        <b>Completed credits</b>: 60%. <br>
-        <b>Grade point average</b>: 79/100. <br>
-      </content-info>
-
       <content-info title="Experience">
         <b>June 2017 - Present</b>: Ruby on Rails developer at CoDN. <br>
         <b>March 2017 - Present</b>: Laravel and Vuejs developer at a personal startup. <br>
@@ -22,21 +15,31 @@
         <b>October 2016</b>: Second place at App Challenge 3 organized by the Facultad de Matemáticas UADY. <br>
       </content-info>
 
-      <content-info title="Strenghts">
-        Experience in frontend development with a vast set of tools. <br>
-        Experience in backend development with Ruby on Rails and PostgreSQL. <br>
-        Experience in Object Oriented Programming with Ruby, PHP and Java. <br>
-        Experience in functional and asynchronous javascript. <br>
-        Good comunication and interpersonal skills. <br>
-        Well problem solving and analysis skills. <br>
-      </content-info>
-
       <content-info title="Projects">
-        <b>June 2017 - Present</b>: An admin panel made in Ruby on Rails for CoDN. <br>
+        <b>December 2017 - Present</b>: Hidrotanques admin panel development with Ruby on Rails for CoDN. <br>
+        <b>September - December 2017</b>: Pay Inspector (payinspector.com) maintenance with Ruby on Rails for CoDN. <br>
+        <b>June - September 2017</b>: Observatorio Costero UNAM Sisal (ocse.mx) development with Ruby on Rails for CoDN. <br>
         <b>March - May 2017</b>: A music service API made in Laravel for the API RESTful course. <br>
         <b>February 2016</b>: A to-do web app made in Foundation and Jquery for personal use. <br>
         <b>December 2016</b>: Tweet Analizer made in PHP for the Data Structures course. <br>
         <b>March - May 2016</b>: Tic Tac Toe game for the Software Design course. <br>
+      </content-info>
+
+      <content-info title="Education">
+        <b>University</b>: Facultad de Matemáticas, Universidad Autónoma de Yucatán. <br>
+        <b>Degree</b>: Software Engineering (graduating in 2019). <br>
+        <b>Completed credits</b>: 73%. <br>
+        <b>Grade point average</b>: 79/100. <br>
+      </content-info>
+
+      <content-info title="Strenghts">
+        Frontend development with a vast set of tools. <br>
+        UI/UX design with Sketch App. <br>
+        Backend development with Ruby on Rails and PostgreSQL. <br>
+        Object Oriented Programming with Ruby, PHP and Javascript. <br>
+        Functional and asynchronous Javascript ES6. <br>
+        Good comunication and interpersonal skills. <br>
+        Problem solving and analysis skills. <br>
       </content-info>
     </div>
   </div>
