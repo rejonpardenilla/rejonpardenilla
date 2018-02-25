@@ -1,8 +1,8 @@
 <template>
   <div class="col-12" id="contact-link">
-    <a :href="href" target="_blank">
-      <icon :name="icon"></icon>
-      {{name}}
+    <a :href="this.href" target="_blank">
+      <icon :name="this.icon"></icon>
+      {{this.name}}
     </a>
   </div>
 </template>
@@ -13,13 +13,6 @@ import Icon from 'vue-awesome/components/Icon'
 
 export default {
   props: ['icon', 'href', 'name'],
-  data () {
-    return {
-      name: this.name,
-      href: this.href,
-      icon: this.name
-    }
-  },
   components: {
     Icon
   }

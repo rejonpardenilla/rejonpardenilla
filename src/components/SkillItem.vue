@@ -1,9 +1,9 @@
 <template>
   <div id="skill-item">
-    <h5 class="text-left mb-1">{{name}}</h5>
+    <h5 class="text-left mb-1">{{this.name}}</h5>
 
     <div id="skill-bar" class="mb-3">
-      <div id="progress" :style="{width: progress}">
+      <div id="progress" :style="{width: this.progress}">
       </div>
     </div>
   </div>
@@ -11,13 +11,7 @@
 
 <script>
 export default {
-  props: ['name', 'progress'],
-  data () {
-    return {
-      name: this.name,
-      progress: this.progress
-    }
-  }
+  props: ['name', 'progress']
 }
 </script>
 

@@ -1,7 +1,7 @@
 <template>
   <div class="row justify-content-center mb-5">
     <div class="col-12 col-md-10 col-lg-8">
-      <h3>{{title}}</h3>
+      <h3>{{this.title}}</h3>
       <p>
         <slot>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -16,12 +16,7 @@
 
 <script>
 export default {
-  props: ['title'],
-  data () {
-    return {
-      title: this.title
-    }
-  }
+  props: ['title']
 }
 </script>
 
