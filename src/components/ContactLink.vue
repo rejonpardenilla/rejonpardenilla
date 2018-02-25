@@ -1,5 +1,5 @@
 <template>
-  <div class="col-12" id="contact-link">
+  <div class="col-12 slide-left three" id="contact-link">
     <a :href="this.href" target="_blank">
       <icon :name="this.icon"></icon>
       {{this.name}}

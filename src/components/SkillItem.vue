@@ -1,5 +1,5 @@
 <template>
-  <div id="skill-item">
+  <div id="skill-item" class="slide-left four">
     <h5 class="text-left mb-1">{{this.name}}</h5>
 
     <div id="skill-bar" class="mb-3">

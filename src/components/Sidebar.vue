@@ -1,9 +1,9 @@
 <template>
   <div class="col-12 col-md-5 col-sm-6 col-lg-4" id="sidebar">
     <div class="container">
-      <img src="@/assets/photo.png" alt="photo">
-      <h2>Daniel Rejón Pardenilla</h2>
-      <h5 class="mb-5">Software Engineer</h5>
+      <img src="@/assets/photo.png" alt="photo" class="appear-photo">
+      <h2 class="slide-left one">Daniel Rejón Pardenilla</h2>
+      <h5 class="mb-5 slide-left two">Software Engineer</h5>
       <contact/>
       <skills />
       <technologies />

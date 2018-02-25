@@ -1,13 +1,13 @@
 <template>
   <div class="col-12 col-md-7 col-sm-6 col-lg-8 pt-5 pb-5" id="main-content">
     <div class="container">
-      <content-info title="Summary">
+      <content-info title="Summary" class="slide-right one">
         I’m a Jr. Web Developer currently coursing 6th semester of Software
         Engineering in the Facultad de Matemáticas in the Universidad Autónoma
         de Yucatán and I’m looking for an job in frontend or backend development.
       </content-info>
 
-      <content-info title="Experience">
+      <content-info title="Experience" class="slide-right two">
         <b>June 2017 - Present</b>: Ruby on Rails developer at CoDN. <br>
         <b>March 2017 - Present</b>: Laravel and Vuejs developer at a personal startup. <br>
         <b>February 2017</b>: Offer a firebase introductory course for Workshop Technology
@@ -15,7 +15,7 @@
         <b>October 2016</b>: Second place at App Challenge 3 organized by the Facultad de Matemáticas UADY. <br>
       </content-info>
 
-      <content-info title="Projects">
+      <content-info title="Projects" class="slide-right three">
         <b>December 2017 - Present</b>: Hidrotanques admin panel development with Ruby on Rails for CoDN. <br>
         <b>September - December 2017</b>: Pay Inspector (payinspector.com) maintenance with Ruby on Rails for CoDN. <br>
         <b>June - September 2017</b>: Observatorio Costero UNAM Sisal (ocse.mx) development with Ruby on Rails for CoDN. <br>

@@ -1,6 +1,6 @@
 <template>
   <div id="skills" class="mb-5">
-    <h3 class="mb-1">Skills</h3>
+    <h3 class="mb-1 slide-left three">Skills</h3>
 
     <skill-item name="Ruby on Rails" progress="94%"/>
     <skill-item name="Twitter Bootstrap" progress="98%"/>
