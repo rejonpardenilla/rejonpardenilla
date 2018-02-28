@@ -2,7 +2,7 @@
   <div class="col-12 col-md-7 col-sm-6 col-lg-8 pt-5 pb-5" id="main-content">
     <div class="container">
       <content-info title="Summary" class="slide-right one">
-        I’m a Jr. Web Developer currently coursing 6th semester of Software
+        I’m a Jr. Web Developer currently coursing 7th semester of Software
         Engineering in the Facultad de Matemáticas in the Universidad Autónoma
         de Yucatán and I’m looking for an job in frontend or backend development.
       </content-info>
